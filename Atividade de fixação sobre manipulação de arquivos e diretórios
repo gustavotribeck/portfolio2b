@@ -1,0 +1,43 @@
+1  touch
+    2  touch
+    3  touch
+    4  touch teste.txt teste2.txt teste3.txt
+    5  mkdir
+    6  mkdir aluno
+    7  mv 
+    8  mvmv teste.txt aluno
+    9  mv teste.txt aluno
+   10  mv teste2.txt
+   11  mv teste2.txt aluno
+   12  mv teste3.txt aluno
+   13  touch teste2.txt
+   14  mkdir aulaso
+   15  cp aluno aulaso
+   16  cp aluno aulaço
+   17  cp -r aluno aulaso
+   18  mv teste2.txt
+   19  mv teste2.txt aulaço
+   20  rm teste.txt
+   21  rm teste.txt
+   22  teste.txt aluno
+   23  cd aluno
+   24  rm teste.txt
+   25  is teste
+   26  is teste.txt teste2.txt teste3.txt
+   27  cd ..
+   28  find . -name 'teste'
+   29  find . -name 'teste*'
+   30  cd aulaso
+   31  find . -name't*'
+   32  find . -name 't*'
+   33  cd /
+   34  mkdir home
+   35  cd home
+   36  mkdir aluno
+   37  cd aluno
+   38  mkdir filmes
+   39  cd filmes
+   40  mkdir comedia aventura suspense
+   41  cd comedia
+   42  mkdir nacional estrangeiro
+   43  history
