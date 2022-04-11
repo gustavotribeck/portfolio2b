@@ -1,0 +1,85 @@
+44  mkdir pallet
+
+   45  cd pallet
+
+   46  mkdir ash
+
+   47  cd ash
+
+   48  mkdir bulbassauro.txt burtterfree.txt charmander.txt pokedex
+
+   49  cd bulbassauro
+
+   50  cd burtterfree.txt
+
+   51  cd desktop
+
+   52  cd ..
+
+   53  cd ..
+
+   54  cd ..
+
+   55  cd pallet
+
+   56  mkdr gary oaksLAB
+
+   57  mkdir gary oaksLAB
+
+   58  cd gary
+
+   59  blastoise.jpg
+
+   60  cd blastoise.jpg
+
+   61  mkdir blastoise.jpg intro.mp3 eevee.jpg
+
+   62  cd ..
+
+   63  cd oaksLAB
+
+   64  mkdir pokedex1996.exe pokedex2014.exe
+
+   65  cd..
+
+   66  cd ..
+
+   67  cd .
+
+   68  cd ..
+
+   69  cd pallet
+
+   70  cd ash gary
+
+   71  cd ash
+
+   72  mkdir zapdor.txt
+
+   73  mkdir.hoothoot.txt
+
+   74  mkdir .hoothoot.txt
+
+   75  cp b* ../oaksLAB
+
+   76  cp -r b* ../oaksLAB
+
+   77  cd ..
+
+   78  cd aoksLAB
+
+   79  ls
+
+   80  cd oaksLAB
+
+   81  cp ../ash/charmander.txt .
+
+   82  cp -r ../ash/charmander.txt .
+
+   83  cd ..
+
+   84  cd ash
+
+   85  touch snolarx.txt totodile.txt
+
+   86  history
